@@ -5,4 +5,4 @@ const routes = Router()
 
 routes.use('/user', user)
 
-export {routes}
+export { routes }
